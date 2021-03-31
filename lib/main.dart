@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             Text(
-              'Web & Mobile App Developer',
+              'Full Stack & Mobile App Developer',
               style: TextStyle(
                 fontFamily: 'Source Sans Pro',
                 color: Colors.teal.shade100,
@@ -93,7 +93,7 @@ class MyApp extends StatelessWidget {
                   'afshin1992',
                   style: TextStyle(
                       fontSize: 23.0,
-                      fontWeight: FontWeight.w600,
+                      fontWeight: FontWeight.w500,
                       color: Colors.white,
                       fontFamily: 'Source Sans Pro'),
                 ),
@@ -111,7 +111,7 @@ class MyApp extends StatelessWidget {
                   'afshin-choganian',
                   style: TextStyle(
                       fontSize: 23.0,
-                      fontWeight: FontWeight.w600,
+                      fontWeight: FontWeight.w500,
                       color: Colors.white,
                       fontFamily: 'Source Sans Pro'),
                 ),
