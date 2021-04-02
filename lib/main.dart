@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             Card(
-                color: Color(0xFF013a63),
+                color: Color(0xFF013a65),
                 margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                 child: ListTile(
                   leading: Icon(
